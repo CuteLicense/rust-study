@@ -7,3 +7,7 @@
 ### References
 
 - [Rust 中文站](https://www.rust-lang.org/zh-CN/)
+
+### Something you might meet
+
+- [Blocked at Updating crates.io index](https://github.com/Gnotes/rust/issues/1)
