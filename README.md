@@ -6,6 +6,7 @@
 
 ### References
 
+- [Rust 离线文档](https://github.com/Gnotes/rust/issues/2)
 - [Rust 中文站](https://www.rust-lang.org/zh-CN/)
 
 ### Something you might meet
