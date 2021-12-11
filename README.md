@@ -12,6 +12,10 @@
 - [通过例子学 Rust](https://doc.rust-lang.org/rust-by-example/index.html)
 - [Rustlings 课程](https://github.com/rust-lang/rustlings/) 
 
+### Docs
+
+- [Rust与JS或者Java的不同之处](./docs/Rust与JS或者Java的不同之处.md)
+
 ### Something you might meet
 
 - [Blocked at Updating crates.io index](https://github.com/Gnotes/rust/issues/1)
