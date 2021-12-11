@@ -15,7 +15,7 @@
 ### Docs
 
 - [Rust与JS或者Java的不同之处](./docs/Rust与JS或者Java的不同之处.md)
-- [所有权之移动引用与借用](./所有权之移动引用与借用.md)
+- [所有权之移动引用与借用](./docs/所有权之移动引用与借用.md)
 
 ### Something you might meet
 
