@@ -2,8 +2,10 @@
 
 ### Videos
 
-- [Rust编程语言入门教程](https://www.bilibili.com/video/BV1hp4y1k7SV) 👍
+- [Rust编程语言入门教程](https://www.bilibili.com/video/BV1hp4y1k7SV)
   > 视频配套电子书 《Rust 程序设计语言》 [中文](https://rust.bootcss.com/title-page.html) 、[英文](https://github.com/rust-lang/book/)
+- [Rust编程视频教程（基础）](https://www.bilibili.com/video/BV1xJ411B79h)
+- [Rust编程视频教程（进阶）](https://www.bilibili.com/video/BV1FJ411Y71o)
 
 ### References
 
