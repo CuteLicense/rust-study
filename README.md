@@ -10,6 +10,7 @@
 ### References
 
 - [Rust 离线文档](https://github.com/Gnotes/rust/issues/2)
+- [Rust 入门秘籍](https://rust-book.junmajinlong.com/) 👍
 - [Rust 中文站](https://www.rust-lang.org/zh-CN/)
 - [通过例子学 Rust](https://doc.rust-lang.org/rust-by-example/index.html)
 - [Rustlings 课程](https://github.com/rust-lang/rustlings/) 
@@ -17,7 +18,7 @@
 ### Docs
 
 - [Rust与JS或者Java的不同之处](./docs/Rust与JS或者Java的不同之处.md)
-- [所有权之移动引用与借用](./docs/所有权之移动引用与借用.md)
+- [所有权之转移与借用](./docs/所有权之转移与借用.md)
 
 ### Something you might meet
 
