@@ -12,7 +12,7 @@
 - [Rust 离线文档](https://github.com/Gnotes/rust/issues/2)
 - [Rust 入门秘籍](https://rust-book.junmajinlong.com/) 👍
 - [Rust 中文站](https://www.rust-lang.org/zh-CN/)
-- [通过例子学 Rust](https://doc.rust-lang.org/rust-by-example/index.html)
+- [通过例子学 Rust | 中文](https://rustwiki.org/zh-CN/rust-by-example/index.html)
 - [Rustlings 课程](https://github.com/rust-lang/rustlings/) 
 
 ### Docs
