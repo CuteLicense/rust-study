@@ -20,6 +20,6 @@
 - [Rust与JS或者Java的不同之处](./docs/Rust与JS或者Java的不同之处.md)
 - [所有权之转移与借用](./docs/所有权之转移与借用.md)
 
-### Something you might meet
+### Things you might encounter
 
 - [Blocked at Updating crates.io index](https://github.com/Gnotes/rust/issues/1)
