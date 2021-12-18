@@ -14,11 +14,14 @@
 - [Rust 程序设计语言 | 中文](https://kaisery.github.io/trpl-zh-cn/) 、[英文](https://github.com/rust-lang/book/)
 - [通过例子学 Rust | 中文](https://rustwiki.org/zh-CN/rust-by-example/index.html)
 - [Rustlings 课程](https://github.com/rust-lang/rustlings/)
+- [Rust 碎碎念](https://www.zhihu.com/column/c_1186237256184029184)
 
 ### Docs
 
 - [Rust 与 JS 或者 Java 的不同之处](./docs/Rust与JS或者Java的不同之处.md)
 - [所有权之转移与借用](./docs/所有权之转移与借用.md)
+- [生命周期](./docs/生命周期.md)
+- [字符串与字符串切片](./docs/字符串与字符串切片.md)
 
 ### Things you might encounter
 
