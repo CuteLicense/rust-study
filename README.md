@@ -15,6 +15,7 @@
 - [通过例子学 Rust | 中文](https://rustwiki.org/zh-CN/rust-by-example/index.html)
 - [Rustlings 课程](https://github.com/rust-lang/rustlings/)
 - [Rust 碎碎念](https://www.zhihu.com/column/c_1186237256184029184)
+- [Learning Rust](https://learning-rust.github.io/docs/index.html) 👍
 
 ### Docs
 
